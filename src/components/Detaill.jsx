@@ -1,7 +1,7 @@
 import "../stilesComponents/Detail.css"
 import { Link } from "react-router-dom"
 import Notfound from "./notfound"
-import Header from "./header"
+
 
 
 const Detaill = ({stado, datainfo}) => {
